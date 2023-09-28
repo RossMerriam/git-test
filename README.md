@@ -13,3 +13,9 @@ Add all new files to git
 
 Get status of repo
 `git status`
+
+Add remote repo
+`git remote add [repo name] [repo url]`
+
+List remote repos
+`git remote -v`
